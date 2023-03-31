@@ -1,4 +1,4 @@
-# Projeto de Todo List para treino de habilidades em React 
+# Projeto de Todo List para treino de funcionalidades em React 
 
 
 

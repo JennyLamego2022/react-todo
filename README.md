@@ -1,6 +1,9 @@
 # Projeto de Todo List para treino de funcionalidades em React 
 
 
+Projeto de uma TodoList de acordo com os ensimentos do curso Balta.io.
+
+
 
 
 # Getting Started with Create React App
